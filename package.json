@@ -78,8 +78,5 @@
   },
   "cakeConfigation": {
     "COFFEE_SRC_PATH": "src"
-  },
-  "cakeConfiguration": {
-    "COFFEE_SRC_PATH": "src"
   }
 }
