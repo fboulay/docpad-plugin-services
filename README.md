@@ -3,21 +3,14 @@
 
 # Services Plugin for [DocPad](http://docpad.org)
 
+Simple fork to add this repository as a depency for my website.
+There has been no release of this plugin since 2 years.
+
 <!-- /TITLE -->
 
 
 <!-- BADGES/ -->
 
-[![Build Status](https://img.shields.io/travis/docpad/docpad-plugin-services/master.svg)](http://travis-ci.org/docpad/docpad-plugin-services "Check this project's build status on TravisCI")
-[![NPM version](https://img.shields.io/npm/v/docpad-plugin-services.svg)](https://npmjs.org/package/docpad-plugin-services "View this project on NPM")
-[![NPM downloads](https://img.shields.io/npm/dm/docpad-plugin-services.svg)](https://npmjs.org/package/docpad-plugin-services "View this project on NPM")
-[![Dependency Status](https://img.shields.io/david/docpad/docpad-plugin-services.svg)](https://david-dm.org/docpad/docpad-plugin-services)
-[![Dev Dependency Status](https://img.shields.io/david/dev/docpad/docpad-plugin-services.svg)](https://david-dm.org/docpad/docpad-plugin-services#info=devDependencies)<br/>
-[![Gratipay donate button](https://img.shields.io/gratipay/docpad.svg)](https://www.gratipay.com/docpad/ "Donate weekly to this project using Gratipay")
-[![Flattr donate button](https://img.shields.io/badge/flattr-donate-yellow.svg)](http://flattr.com/thing/344188/balupton-on-Flattr "Donate monthly to this project using Flattr")
-[![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB8GQPZAH84N6 "Donate once-off to this project using Paypal")
-[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a "Donate once-off to this project using BitCoin")
-[![Wishlist browse button](https://img.shields.io/badge/wishlist-donate-yellow.svg)](http://amzn.com/w/2F8TXKSNAFG4V "Buy an item on our wishlist for us")
 
 <!-- /BADGES -->
 
